@@ -10,7 +10,7 @@ Support this project and keep always updated about recent software releases, bug
 ![badge-license](https://img.shields.io/badge/license-none-blue)
 
 Copyright (c) 2021 Danny Petschke (danny.petschke@uni-wuerzburg.de). All rights reserved.<br><br>
-<b>MELTail</b> - A modified version of the historical MATLAB code MELT ([Shukla (1993)](https://www.sciencedirect.com/science/article/abs/pii/016890029390286Q)) optionally enabling tail-fitting on lifetime spectra consisting of distributed characteristic lifetimes using Maximum Entropy for optimization.<br>
+<b>MELTail</b> - A modified version of the historical MATLAB code MELT ([Shukla (1993)](https://www.sciencedirect.com/science/article/abs/pii/016890029390286Q)) additionally enabling tail-fitting on lifetime spectra consisting of distributed characteristic lifetimes using Maximum Entropy for optimization.<br>
 
 ![demo](/images/demo.png)
 
