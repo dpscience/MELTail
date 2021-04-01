@@ -38,9 +38,9 @@ Accel. Spectrometers, Detect. Assoc. Equip. 335 (1993) 310–317. doi:10.1016/01
 
 * <b>Additionally, you should cite the applied version of this program in your study.</b><br>
 
-You can cite all released software versions by using the <b>DOI 10.5281/zenodo.3665474</b>. This DOI represents all versions, and will always resolve to the latest one.<br>
+You can cite all released software versions by using the <b>DOI 10.5281/zenodo.4657514</b>. This DOI represents all versions, and will always resolve to the latest one.<br>
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3665474.svg)](https://doi.org/10.5281/zenodo.3665475)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4657515.svg)](https://doi.org/10.5281/zenodo.4657515)
 
 ## ``v1.x``
-<b>MELTail v1.0 (refers to MELT 5.0)</b><br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3665475.svg)](https://doi.org/10.5281/zenodo.3665475)<br>
+<b>MELTail v1.0 (refers to MELT 5.0)</b><br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4657515.svg)](https://doi.org/10.5281/zenodo.4657515)<br>
